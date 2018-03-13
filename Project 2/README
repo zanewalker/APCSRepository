@@ -1,0 +1,38 @@
+# Project 2: Playlist
+
+* Author: Zane Walker
+* Class: AP Computer Science
+* Semester: Fall 2017
+
+## Overview
+
+This Java application asks user input for title, artist, play time in MM:SS format, and file path for 3 songs and then sorts them in order of play time, prints a table displaying the information for each in that sorted order, and plays them in that order.
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+javac PlayList.java
+```
+
+Run the compiled class with the command:
+```
+java PlayList
+```
+
+## Discussion
+
+During the development of my playlist program I had many points of success ad failure. One problem I had was that I initially started writing the code using arrays after subsantial research on how to use them when that was the extra credit assignment. I then switched gears to create the program that only took the input from 3 songs and sorted that which took a lot of manipulating the data to use if statements and not arrays. Lots of the errors I got were in my first program since i was just learning how to use arrays and still will probably learn even more in the future. I consulted forums and outlines and premade codes and studied them and messed around with my own code with patience to finnally come out with a working program. I mainly found turning the play time from MM:SS format into secnds to use when sorting them in play order. One thing I would like the project to change and require is to learn how to use arrays because they can me massively usefull yet we still have not yet learned how to use them. I will definately refer back to the code in future projects to use arrays and such. 
+
+## Testing
+
+TO test my program I at first during the develoupment manually input the asked data to see if the program worked on it's own. This was all good until I had thought I was completely finished. I was gone the day the instructor went over how to use her test files from the drive so I had to ask classmates for help the next day. This went more smotly than I expected because when I first tested my file it worked flawlessly. However for the ExtraPlayList program I could not use that same test method to see if it took all the input correctly. So I had to manually test that multiple times and it worked as well to my great satisfaction. 
+
+## Extra Credit
+
+The project, as I have previously brought up, did have an extra credit opportunity. I used arrays to create a looping playlist and I have included the java file for it and the basic project (the one that only does 3 songs) in the submission. You must manually input for this one because it can't take the tester created because it was created to test with 3 songs. I submitted it's java file without the package name so it can be run from the command line. To tell the difference I named the Extra Credit one "Playlist.java" as well as put a comment nect to the name in the code telling you it is the extra credit one. 
+
+## Sources used
+
+I used too many forums and websites to go back and find to cite. I used my own work however I used multiple websites for help on using arrays. 
+----------
